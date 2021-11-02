@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 rm -rf mecab-ipadic-neologd
 rm dic/neologd/*.bin

@@ -1,4 +1,4 @@
-#/usr/bin/bash
+#!/bin/bash
 
 # update neologd
 if [ ! -d mecab-ipadic-neologd ]; then
